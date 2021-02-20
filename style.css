@@ -1,0 +1,215 @@
+.head{
+    background-color:black;
+    text-align: center
+}
+
+h1{
+    color: red;
+}
+
+.lolo{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+}
+
+p{
+    color: green;
+}
+
+p2{
+    color: black;
+}
+
+p3{
+    color: yellow;
+}
+
+.fog h2{
+    color: blueviolet;
+}
+
+.hello{
+    background-color: red;
+    text-align: center;
+    border: solid;
+}
+
+.gello{
+    background-color: rgb(0, 47, 255);
+    text-align: center;
+    border: solid;
+}
+
+.fog{
+    background-color: rgb(21, 184, 0);
+    text-align: center;
+    border: solid;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: red;
+}
+
+.log{
+    background-color: yellow;
+    display: flex;
+    border: solid;
+}
+
+h3{
+    color: royalblue;
+}
+
+.title{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.titl{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.tit{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.ti{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.t{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.p{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.o{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.h{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+a{
+    color: green;
+}
+
+.lolo p{
+    opacity: 0;
+}
+
+.lolo:hover p{
+    opacity: 1;
+}
+
+.lolo:hover a{
+    opacity: 0.93;
+}
+
+.log h3{
+    opacity: 0;
+}
+
+.log:hover a{
+    opacity: 0.93;
+}
+
+.log:hover h3{
+    opacity: 1;
+}
+
+.title p{
+    opacity: 0;
+}
+
+.title:hover p{
+    opacity: 1;
+}
+
+.titl p{
+    opacity: 0;
+}
+
+.titl:hover p{
+    opacity: 1;
+}
+
+.tit p{
+    opacity: 0;
+}
+
+.tit:hover p{
+    opacity: 1;
+}
+
+.ti p{
+    opacity: 0;
+}
+
+.ti:hover p{
+    opacity: 1;
+}
+
+.t p{
+    opacity: 0;
+}
+
+.t:hover p{
+    opacity: 1;
+}
+
+.p p{
+    opacity: 0;
+}
+
+.p:hover p{
+    opacity: 1;
+}
+
+.o p{
+    opacity: 0;
+}
+
+.o:hover p{
+    opacity: 1;
+}
+
+.h p{
+    opacity: 0;
+}
+
+.h:hover p{
+    opacity: 1;
+}
+
+.go{
+    text-align: center;
+}
